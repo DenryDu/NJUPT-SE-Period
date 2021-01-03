@@ -1,5 +1,5 @@
 # NJUPT-SE-Period![](https://img.shields.io/badge/university-NJUPT-blue.svg) ![](https://img.shields.io/badge/language-c-green.svg) ![](https://img.shields.io/badge/language-java-green.svg) ![](https://img.shields.io/badge/language-python-green.svg)
-记录鄙人在南京邮电大学软件工程（与NIIT合作嵌入式培养）专业学习过程中所有写/参与过的项目
+🔭记录鄙人在南京邮电大学软件工程（与NIIT合作嵌入式培养）专业学习过程中所有写/参与过的项目
 
 
 ## Table of Contents
@@ -12,8 +12,14 @@
 
 
 ## Background
+2021年1月3日，这个我创建并第一次编辑这个Repo的日子，也是我大三第一学期期末考试前的最后一天，在整理完操作系统的知识要点之后，我准备休息一下，换换脑子，于是我打开GitHub，干了一件一直想干而迟迟没有动手的一件事，那就是，建一个仓库，记录我大学期间所有写过或者参与过的项目，留作纪念。
+
+虽然大学里我也走了不少弯路，吃了不少亏，学习路径算不得最优解，但我想说，至少，我没有虚度。
+
+谨以此Repo，献给18-22岁的自己！
 
 ## Navigation
+🌱一分耕耘，一份收获，时光不等人，不断再出发！
 <table>
   <!--表头-->
   <tr>
