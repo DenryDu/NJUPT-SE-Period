@@ -1,4 +1,4 @@
-# NJUPT-SE-Period![](https://img.shields.io/badge/university-NJUPT-blue.svg) ![](https://img.shields.io/badge/language-c-green.svg) ![](https://img.shields.io/badge/language-java-green.svg)
+# NJUPT-SE-Period![](https://img.shields.io/badge/university-NJUPT-blue.svg) ![](https://img.shields.io/badge/language-c-green.svg) ![](https://img.shields.io/badge/language-java-green.svg) ![](https://img.shields.io/badge/language-python-green.svg)
 记录鄙人在南京邮电大学软件工程（与NIIT合作嵌入式培养）专业学习过程中所有写/参与过的项目
 
 
