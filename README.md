@@ -181,7 +181,7 @@
 
 ###### 机器学习
 * [[Python] | 基于Faster-RCNN的垃圾分类识别任务（海华垃圾分类比赛，上榜，未获奖）]()
-* [[Python] | 学习斯坦福cs231n计算机视觉课程（完成分类器底层代码，实现kNN、softmax等算法，完成梯度求导，实现运算矩阵化）]()
+* [[Python] | 学习斯坦福cs231n计算机视觉课程（完成分类器底层代码，实现kNN、softmax等算法，完成梯度求导，实现运算矩阵化）](https://github.com/DenryDu/cs231n_Assignment1)
 
     </td>
     <!--大二第二学期-竞赛-->
