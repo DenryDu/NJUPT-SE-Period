@@ -20,6 +20,7 @@
 
 ## Navigation
 🌱一分耕耘，一份收获，时光不等人，不断再出发！
+
 :moon:：已上传
 :new_moon:：未上传
 <table>
@@ -85,22 +86,22 @@
     <td>
 
 ###### 前端任务
-* [[HTML] | 学习各类html标签属性以及css、js代码，完成复刻QQ登录页面的页面[:new_moon:]()
+* [[HTML] | 学习各类html标签属性以及css、js代码，完成复刻QQ登录页面的页面[:new_moon:]]()
 ###### 后端任务
-* [[Java] | 基于SpringBoot完成端口查询功能（数据来源：excel数据表在线导入）]()
+* [[Java] | 基于SpringBoot完成端口查询功能（数据来源：excel数据表在线导入）[:new_moon:]]()
 
     </td>
     <!--大一第二学期-SwapInfo-->
     <td>
 
 ###### CV基础
-* [[C++] | 学习《Ancient Secret of Computer Vision》，并完成作业]()
-* [[Python] | 图片灰度化]()
-* [[Python] | 图片拼接Panorama Stiching]()
-* [[Python] | 图片的Erosion和Delation]()
+* [[C++] | 学习《Ancient Secret of Computer Vision》，并完成作业[:new_moon:]]()
+* [[Python] | 图片灰度化[:new_moon:]]()
+* [[Python] | 图片拼接Panorama Stiching[:new_moon:]]()
+* [[Python] | 图片的Erosion和Delation[:new_moon:]]()
 ###### 机器学习
-* [[C++/Python] | 基于Dlib的人脸识别]()
-* [[C++] | 基于Dlib的挖掘机识别任务（自己制作数据集）]()
+* [[C++/Python] | 基于Dlib的人脸识别[:new_moon:]]()
+* [[C++] | 基于Dlib的挖掘机识别任务（自己制作数据集）[:new_moon:]]()
 
 
     </td>
@@ -139,7 +140,7 @@
     <td>
   
 ###### 机器学习
-* [[C++] | 参与基于双目摄像头深度信息的喷漆机械臂姿态定位]()
+* [[C++] | 参与基于双目摄像头深度信息的喷漆机械臂姿态定位[:new_moon:]]()
 
 
     </td>
@@ -147,7 +148,7 @@
     <td>
   
 ###### 数学建模
-* [[Matlab] | 参加MathorCup数学建模比赛，获二等奖]()
+* [[Matlab] | 参加MathorCup数学建模比赛，获二等奖[:new_moon:]]()
 
     </td>
   </tr>
@@ -182,8 +183,8 @@
 
 
 ###### 机器学习
-* [[Python] | 基于Faster-RCNN的垃圾分类识别任务（海华垃圾分类比赛，上榜，未获奖）]()
-* [[Python] | 学习斯坦福cs231n计算机视觉课程（完成分类器底层代码，实现kNN、softmax等算法，完成梯度求导，实现运算矩阵化）](https://github.com/DenryDu/cs231n_Assignment1)
+* [[Python] | 基于Faster-RCNN的垃圾分类识别任务（海华垃圾分类比赛，上榜，未获奖）[:new_moon:]]()
+* [[Python] | 学习斯坦福cs231n计算机视觉课程（完成分类器底层代码，实现kNN、softmax等算法，完成梯度求导，实现运算矩阵化）[:moon:]](https://github.com/DenryDu/cs231n_Assignment1)
 
     </td>
     <!--大二第二学期-竞赛-->
@@ -201,20 +202,20 @@
     <td>
 
 ###### 编译原理
-* [[c++] | 词法分析器]()
-* [[c++] | LL(1)语法分析器]()
+* [[c++] | 词法分析器[:new_moon:]]()
+* [[c++] | LL(1)语法分析器[:new_moon:]]()
 ###### 操作系统B
-* [[c++] | 银行家算法]()
-* [[c++] | LRU页面置换算法]()
+* [[c++] | 银行家算法[:new_moon:]]()
+* [[c++] | LRU页面置换算法[:new_moon:]]()
 ###### 软件项目管理
 * []()
 ###### 基于ASP.NET的WEB应用开发
-* [[C#] | ASP.NET WebForms应用-音乐网站]()
-* [[C#] | ASP.NET MVC应用-电影网站]()
+* [[C#] | ASP.NET WebForms应用-音乐网站[:new_moon:]]()
+* [[C#] | ASP.NET MVC应用-电影网站[:new_moon:]]()
 ###### Android应用开发
-* [[Java] | OrderlyToDo待办项软件]()
+* [[Java] | OrderlyToDo待办项软件[:new_moon:]]()
 ###### 软件项目实训
-* [[Java] | SpringMVC应用-慢病健康管理系统（开发+部署+文档）]()
+* [[Java] | SpringMVC应用-慢病健康管理系统（开发+部署+文档）[:new_moon:]]()
 
       
     </td>
@@ -237,10 +238,11 @@
 
 
 ## Related Efforts
-[VOC format and label tool](https://github.com/DenryDu/VOC-format-label)
+
 ## Maintainers
 [@DenryDu](https://github.com/DenryDu)
 ## Contributors
+[@DenryDu](https://github.com/DenryDu)
 ## License
 ***
 Support from you is my greatest encouragement! (您的支持是对我的最大鼓励！)       
