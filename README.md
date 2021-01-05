@@ -38,7 +38,7 @@
     <td>
 
 ###### 高级语言程序设计（C）
-* [[c++] | 学生成绩管理系统]()
+
 ###### 课外
 * xxx
       
@@ -70,7 +70,7 @@
     <td>
 
 ###### 面向对象程序设计及c++
-* []()
+* [[c++] | 学生成绩管理系统[已上传]](https://github.com/DenryDu/Student-achievement-management-system)
 ###### C#面向对象编程
 * []()
 ###### Java开发基础
