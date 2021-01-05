@@ -70,7 +70,7 @@
     <td>
 
 ###### 面向对象程序设计及c++
-* [[c++] | 学生成绩管理系统[已上传]](https://github.com/DenryDu/Student-achievement-management-system)
+* [[c++] | 学生成绩管理系统[:moon:]](https://github.com/DenryDu/Student-achievement-management-system)
 ###### C#面向对象编程
 * []()
 ###### Java开发基础
@@ -83,7 +83,7 @@
     <td>
 
 ###### 前端任务
-* [[HTML] | 学习各类html标签属性以及css、js代码，完成复刻QQ登录页面的页面]()
+* [[HTML] | 学习各类html标签属性以及css、js代码，完成复刻QQ登录页面的页面[:new_moon:]()
 ###### 后端任务
 * [[Java] | 基于SpringBoot完成端口查询功能（数据来源：excel数据表在线导入）]()
 
