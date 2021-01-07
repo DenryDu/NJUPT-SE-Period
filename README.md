@@ -141,7 +141,9 @@
   
 ###### 机器学习
 * [[C++] | 参与基于双目摄像头深度信息的喷漆机械臂姿态定位[:new_moon:]]()
-
+###### 辅助项目
+* [[Python] | 图片的VOC格式整理与标注的自动化过程[:moon:]](https://github.com/DenryDu/VOC-format-label)
+* [[Python] | 图片的按名批量爬取[:moon:]](https://github.com/DenryDu/BaiduImageCrawler)
 
     </td>
     <!--大二第一学期-竞赛-->
