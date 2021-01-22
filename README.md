@@ -233,7 +233,8 @@
     </td>
     <!--大三第一学期-竞赛-->
     <td>
-      
+###### 数模美赛    
+* [[Python] | 美赛培训过程记录 [:moon:]](https://github.com/DenryDu/MCM-ICM-Train)
     </td>
   </tr>
 </table>
