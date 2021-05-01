@@ -205,8 +205,8 @@
     <td>
 
 ###### 编译原理
-* [[c++] | 词法分析器[:moon:]](https://github.com/DenryDu/Compiling-principle-experiment/LexicalAnalyzer)
-* [[c++] | LL(1)语法分析器[:moon:]](https://github.com/DenryDu/Compiling-principle-experiment/Parser)
+* [[c++] | 词法分析器[:moon:]](https://github.com/DenryDu/Compiling-principle-experiment/tree/master/LexicalAnalyzer)
+* [[c++] | LL(1)语法分析器[:moon:]](https://github.com/DenryDu/Compiling-principle-experiment/tree/master/Parser)
 ###### 操作系统B
 * [[c++] | 银行家算法[:new_moon:]]()
 * [[c++] | LRU页面置换算法[:new_moon:]]()
