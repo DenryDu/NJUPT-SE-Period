@@ -236,9 +236,10 @@
     <td>
 ###### 数模美赛   
 * [[Matlab] | 参加数学建模比赛国赛，选题错误，获省级三等奖[:new_moon:]]()     
-* [[Python] | 美赛培训过程记录 [:moon:]](https://github.com/DenryDu/MCM-ICM-Train)
+* [[Python] | 美赛培训过程记录，获Honorable奖项[:moon:]](https://github.com/DenryDu/MCM-ICM-Train)
     </td>
   </tr>
+  
 </table>
 
 
